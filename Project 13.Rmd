@@ -7,7 +7,7 @@ set the working directory
 
 import the dataset
 ```{r}
-regression<-read.csv("Regression.csv")
+regression1<-read.csv("Regression.csv")
 ```
 
 use the linear model (lm) command to create the model we'll work with and call the model
